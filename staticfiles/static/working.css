@@ -1,4 +1,4 @@
-{% load static %}
+{% load staticfiles %}
 body, html{
   background: linear-gradient(to right, lightblue, lightgreen);
 }
