@@ -1,4 +1,4 @@
-{% load staticfiles %}
+{% load static %}
 body, html{
 	height: 100%;
 	margin: 0;
